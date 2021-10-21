@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.exe
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.deps.json
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.dll
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\ref\Factory.dll
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\bin\Debug\net5.0\Factory.pdb
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.dll
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\ref\Factory.dll
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\Factory\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
