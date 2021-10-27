@@ -85,7 +85,7 @@ namespace Factory
         public string threshold;
         public static Factory get()
         {
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Factory\config.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Factory\config.txt");
 
             string c = lines[0].Substring(9);
             string t = lines[1].Substring(11);
