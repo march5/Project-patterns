@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj": {}
+    "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj": {
+    "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\Builder\\Builder\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\Builder\\Builder\\Builder.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\Builder\\Builder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

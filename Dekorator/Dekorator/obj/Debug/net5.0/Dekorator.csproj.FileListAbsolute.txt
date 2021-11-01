@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.deps.json
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.runtimeconfig.json
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.dll
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\ref\Dekorator.dll
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\bin\Debug\net5.0\Dekorator.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.AssemblyInfo.cs
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.dll
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\ref\Dekorator.dll
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Dekorator\Dekorator\obj\Debug\net5.0\Dekorator.genruntimeconfig.cache
