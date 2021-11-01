@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\obj\\",
+=======
+    "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+        "projectName": "FactoryMethod",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
