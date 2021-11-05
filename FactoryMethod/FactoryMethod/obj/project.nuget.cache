@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "Vjo5Xgmxe9gL5iwq8q7GlRTLCZT3A0DSAlup74Ul3IstEKBPRIss1IEKCOHdLpxilxuF1P+CLdmuFDkcXkLBDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\studia\\Wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+=======
+  "dgSpecHash": "BZUj0dBjQQREUtR0ynIPNUGh9DO7VADqijLzdQx206c2mZmecB+PKPNVirDQEWOVqHJCpleNAXqPBGKdhH2ViQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Studia\\wzorce projektowe\\Project-patterns\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
