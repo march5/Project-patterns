@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\bin\Debug\State.exe.config
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\bin\Debug\State.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\bin\Debug\State.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\obj\Debug\State.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\State\State\obj\Debug\State.pdb
