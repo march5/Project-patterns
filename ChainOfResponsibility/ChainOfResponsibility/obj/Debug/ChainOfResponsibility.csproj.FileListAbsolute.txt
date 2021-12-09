@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
