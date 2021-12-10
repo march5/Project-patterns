@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Strategy\Strate
 C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.exe
 C:\Users\Admin\Desktop\Studia\wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Strategy\Strategy\obj\Debug\Strategy.pdb
