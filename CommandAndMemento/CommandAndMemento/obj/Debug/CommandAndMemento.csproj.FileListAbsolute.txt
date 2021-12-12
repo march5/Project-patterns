@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\bin\Debug\CommandAndMemento.exe.config
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\bin\Debug\CommandAndMemento.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\bin\Debug\CommandAndMemento.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\obj\Debug\CommandAndMemento.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\obj\Debug\CommandAndMemento.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\obj\Debug\CommandAndMemento.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\CommandAndMemento\CommandAndMemento\obj\Debug\CommandAndMemento.pdb
