@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\HP\Desktop\studia\Wzorce projektowe\Project-patterns\Visitor\Visitor\obj\Debug\Visitor.pdb
