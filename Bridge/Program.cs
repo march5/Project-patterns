@@ -8,68 +8,143 @@ namespace Bridge
 {
     class Program
     {
-        public interface DateFormat
+        public interface OutputFile
         {
-            string write();
-            string GetFormat();
+            void WriteDate1(); //YYYYMMDD
+            void WriteDate2(); //MMDDYYYY
+            void WriteDate3(); //DDMMYY
         }
-        public class YYYYMMDD : DateFormat
+
+        public class XML : OutputFile
         {
-            string date = "20220105";
-            public string write()
+            public void WriteDate1()
             {
-                return date;
+                Console.WriteLine("XML representation");
+                Console.WriteLine("2022-01-05");
             }
-            public string GetFormat()
+            public void WriteDate2()
             {
-                return "YYYYMMDD";
+                Console.WriteLine("XML representation");
+                Console.WriteLine("01-05-2022");
             }
-        }
-        public class MMDDYYYY : DateFormat
-        {
-            string date = "01052022";
-            public string write()
+            public void WriteDate3()
             {
-                return date;
-            }
-            public string GetFormat()
-            {
-                return "MMDDYYYY";
+                Console.WriteLine("XML representation");
+                Console.WriteLine("05-01-22");
             }
         }
 
-        class OutputFile
+        public class CSV : OutputFile
         {
-            protected DateFormat date;
+            public void WriteDate1()
+            {
+                Console.WriteLine("CSV representation");
+                Console.WriteLine("2022-01-05");
+            }
+            public void WriteDate2()
+            {
+                Console.WriteLine("CSV representation");
+                Console.WriteLine("01-05-2022");
+            }
+            public void WriteDate3()
+            {
+                Console.WriteLine("CSV representation");
+                Console.WriteLine("05-01-22");
+            }
+        }
 
-            public OutputFile(DateFormat date)
+        public class FIXED : OutputFile
+        {
+            public void WriteDate1()
             {
-                this.date = date;
+                Console.WriteLine("FIXED representation");
+                Console.WriteLine("2022-01-05");
+            }
+            public void WriteDate2()
+            {
+                Console.WriteLine("FIXED representation");
+                Console.WriteLine("01-05-2022");
+            }
+            public void WriteDate3()
+            {
+                Console.WriteLine("FIXED representation");
+                Console.WriteLine("05-01-22");
+            }
+        }
+
+        public abstract class DateFormat
+        {
+            public string dateType;
+            public OutputFile output;
+
+            public DateFormat(OutputFile f)
+            {
+                output = f;
             }
 
-            public virtual string WriteXML()
+            public abstract void write();
+
+            public void writeDate1()
             {
-                return "Writing " + date.write() + " to XML";
+                output.WriteDate1();
             }
-            public virtual string WriteCSV()
+            public void writeDate2()
             {
-                return "Writing " + date.write() + " to CSV";
+                output.WriteDate2();
             }
-            public virtual string WriteFixed()
+            public void writeDate3()
             {
-                return "Writing " + date.write() + " to FIXED";
+                output.WriteDate3();
+            }
+        }
+
+        public class Date1 : DateFormat
+        {
+            public Date1(OutputFile f)
+                : base(f)
+            {
+                dateType = "YYYYMMDD";
+            }
+            public override void write()
+            {
+                base.writeDate1();
+            }
+        }
+        public class Date2 : DateFormat
+        {
+            public Date2(OutputFile f)
+                : base(f)
+            {
+                dateType = "MMDDYYYY";
+            }
+            public override void write()
+            {
+                base.writeDate2();
+            }
+        }
+        public class Date3 : DateFormat
+        {
+            public Date3(OutputFile f)
+                : base(f)
+            {
+                dateType = "DDMMYY";
+            }
+            public override void write()
+            {
+                base.writeDate3();
             }
         }
 
         static void Main(string[] args)
         {
-            OutputFile output;
-
-            output = new OutputFile(new YYYYMMDD());
-            Console.WriteLine(output.WriteXML());
-
-            output = new OutputFile(new MMDDYYYY());
-            Console.WriteLine(output.WriteCSV());
+            DateFormat f1 = new Date1(new XML());
+            f1.write();
+            DateFormat f2 = new Date2(new CSV());
+            f2.write();
+            DateFormat f3 = new Date3(new FIXED());
+            f3.write();
+            DateFormat f4 = new Date3(new XML());
+            f4.write();
         }
     }
 }
